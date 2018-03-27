@@ -1,4 +1,6 @@
 # Elaboration d'un système de vote
+# PARASSOURAMIN Sivadjy - MONDIA Raphaël 
+
 - Y-a-t-il un organisateur désigné ?
 Une organisation non gouvernementale.
 - Qui seront les votants ?
